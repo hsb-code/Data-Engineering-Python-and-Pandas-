@@ -1,4 +1,4 @@
-This repository provides a comprehensive example of data engineering using Python and Pandas with a FIFA dataset. The project demonstrates various data manipulation, cleaning, and transformation techniques to prepare the data for analysis. It is designed to help users understand the fundamentals of data engineering and apply these skills to real-world datasets.
+This repository provides a comprehensive example of data engineering using Python and Pandas with a FIFA players dataset. The project demonstrates various data manipulation, cleaning, and transformation techniques to prepare the data for analysis. It is designed to help users understand the fundamentals of data engineering and apply these skills to real-world datasets.
 
 Features
 - Data Cleaning: Techniques for handling missing values, duplicates, and inconsistent data.
